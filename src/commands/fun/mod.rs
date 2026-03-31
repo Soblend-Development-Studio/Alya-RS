@@ -1,0 +1,14 @@
+pub mod hug;
+pub mod kiss;
+pub mod slap;
+pub mod dance;
+pub mod cry;
+pub mod love;
+pub mod angry;
+pub mod bored;
+pub mod coffee;
+pub mod kill;
+pub mod sleep;
+pub mod gay;
+pub mod textpro;
+pub mod wanted;

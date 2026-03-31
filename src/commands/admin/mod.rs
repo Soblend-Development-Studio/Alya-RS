@@ -1,0 +1,13 @@
+pub mod welcome;
+pub mod goodbye;
+pub mod antilink;
+pub mod kick;
+pub mod ban;
+pub mod promote;
+pub mod demote;
+pub mod tag;
+pub mod warn;
+pub mod settings;
+pub mod kickall;
+pub mod delete_cmd;
+pub mod update;
