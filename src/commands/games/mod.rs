@@ -1,0 +1,10 @@
+pub mod tictactoe;
+pub mod trivia;
+pub mod math;
+pub mod dare;
+pub mod ppt;
+pub mod slot;
+pub mod fight;
+pub mod marry;
+pub mod ship;
+pub mod adivinanza;

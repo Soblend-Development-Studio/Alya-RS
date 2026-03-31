@@ -1,0 +1,13 @@
+pub mod ping;
+pub mod sticker;
+pub mod toimg;
+pub mod pfp;
+pub mod hd;
+pub mod speak;
+pub mod ss;
+pub mod statsbot;
+pub mod bots;
+pub mod get;
+pub mod upload;
+pub mod suggest;
+pub mod obtenerinfo;
